@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "social"
+  "defaultProject": "social",
+  "cli": {
+    "analytics": "7964867a-5ef5-4f17-85fa-001bdabba26e"
+  }
 }
